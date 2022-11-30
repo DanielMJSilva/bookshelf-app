@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "alGaW5bGdSarnA1/aohmppwF3kKf0LQVydDjHcVgCeIWrzFHntsPR54h9TB24rTOXBrxaQYZbiKwX6fK7oQHKA==",
+  "success": true,
+  "projectFilePath": "D:\\Software Engineering\\Old\\API\\301203886(daniel)Lab2\\301203886(daniel)Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DMJS\\.nuget\\packages\\awssdk.core\\3.7.11.15\\awssdk.core.3.7.11.15.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.43\\awssdk.dynamodbv2.3.7.3.43.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\awssdk.s3\\3.7.9.15\\awssdk.s3.3.7.9.15.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\syncfusion.compression.base\\20.1.0.59\\syncfusion.compression.base.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\syncfusion.licensing\\20.1.0.59\\syncfusion.licensing.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\syncfusion.pdf.wpf\\20.1.0.59\\syncfusion.pdf.wpf.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\syncfusion.pdfviewer.wpf\\20.1.0.59\\syncfusion.pdfviewer.wpf.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.59\\syncfusion.shared.wpf.20.1.0.59.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DMJS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

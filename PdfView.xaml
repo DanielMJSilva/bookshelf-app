@@ -1,0 +1,17 @@
+﻿<Window x:Class="_301203886_daniel_Lab2.PdfView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        xmlns:Syncfusion="clr-namespace:Syncfusion.Windows.PdfViewer;assembly=Syncfusion.PdfViewer.WPF"
+        Title="PdfView" Height="900" Width="1000"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing">
+
+    <Grid>
+        <Syncfusion:PdfViewerControl x:Name="pdfViewerControl" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" Height="Auto" Margin="0,0,0,0" VerticalAlignment="Stretch" Width="Auto" CurrentPageChanged="pdfviewer1_CurrentPageChanged"></Syncfusion:PdfViewerControl>
+    </Grid>
+
+
+</Window>
